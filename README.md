@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=87B9F0&height=80&section=header&text=%20ArchivvonJang&fontSize=50&fontColor=fff&animation=blink" />
+</div>
+  
+<br/>
+<br/>
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchivvonJang&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats" />
