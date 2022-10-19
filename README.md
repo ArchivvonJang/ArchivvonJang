@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=wave&color=0047AB&height=80&section=header&text=%20Archiv&nbsp;von&nbsp;Jang&fontSize=30&fontColor=FFEB3B&animation=blink" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=wave&color=fff&height=75&section=header&text=%20Archiv&nbsp;von&nbsp;Jang&fontSize=30&fontColor=548CE1&animation=blink" />
 </div>
   
 <br/>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </a>
 
 <div align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=wave&color=0047AB&height=80&section=footer&fontSize=50&fontColor=fff&animation=blink" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=wave&color=fff&height=75&section=footer&fontSize=50&fontColor=fff&animation=blink" />
 </div>
   
 
