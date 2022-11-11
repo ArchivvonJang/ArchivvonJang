@@ -15,22 +15,25 @@ Here are some ideas to get you started:
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=fff&height=45&section=header&text=%20Archiv&nbsp;von&nbsp;Jang&fontSize=20&fontColor=548CE1&animation=blink" />
 </div>
-  
-<br/>
-<br/>
 
-<a href="">
+<br/>
+<br/>
+  
+<div align="center">
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=ArchivvonJang&custom_title=GitHub%20Stats&count_private=true&show_icons=true&theme=github_dark"/>
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchivvonJang&hide=html,css&langs_count=8&layout=compact&theme=github_dark"/>
+</div>
+
+
+<!-- <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchivvonJang&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
-<br/>
-<br/>
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArchivvonJang&count_private=true&show_icons=true&theme=default_repocard" />
-</a>
+</a> 
 
-<!--
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=wave&color=fff&height=75&section=footer&fontSize=50&fontColor=fff&animation=blink" />
 </div>
