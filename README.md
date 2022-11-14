@@ -13,22 +13,24 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=fff&height=45&section=header&text=%20Archiv&nbsp;von&nbsp;Jang&fontSize=20&fontColor=548CE1&animation=blink" />
-
-<br/>
-<br/>
-
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArchivvonJang&count_private=true&show_icons=true&theme=default_repocard" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchivvonJang&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-
+  <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=fff&height=45&section=header&text=%20Archiv&nbsp;von&nbsp;Jang&fontSize=20&fontColor=548CE1&animation=blink" />
 </div>
 <br/>
 <br/>
+<div align="left">
+
+  <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArchivvonJang&count_private=true&show_icons=true&theme=default_repocard" />
+  </a>
+
+  <br/>
+
+  <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchivvonJang&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats" />
+  </a>
+
+</div>
+
 
 
 <!--   
