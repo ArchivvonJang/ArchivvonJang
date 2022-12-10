@@ -3,7 +3,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -12,24 +11,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=fff&height=45&section=header&text=%20Archiv&nbsp;von&nbsp;Jang&fontSize=20&fontColor=548CE1&animation=blink" />
+##  Hi 👋 
+###  I’m currently working on 
+<div>
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=black">
+  <img src="https://img.shields.io/badge/React.js-skyblue?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white">
 </div>
+
 <br/>
 <br/>
 <div align="left">
-
+<!--
   <a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArchivvonJang&count_private=true&show_icons=true&theme=default_repocard" />
   </a>
-
-  <br/>
 
   <a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchivvonJang&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats" />
   </a>
 
 </div>
+-->
 
 
 
