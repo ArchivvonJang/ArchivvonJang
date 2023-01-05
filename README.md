@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <div align="left">
-  
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoobyeol%2Fhit-counter&count_bg=%23CACED5&title_bg=%2335343D&icon=github.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://github.com/ArchivvonJang/ArchivvonJang)
+
 <!--
   <a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArchivvonJang&count_private=true&show_icons=true&theme=default_repocard" />
