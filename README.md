@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=black">
   <img src="https://img.shields.io/badge/React.js-skyblue?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow">
 </div>
 
 <br/>
